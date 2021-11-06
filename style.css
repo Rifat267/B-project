@@ -1,0 +1,71 @@
+header{
+    background-image: url("imgs/xm.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar{
+    padding: 1% 10%;
+    background-color: rgb(0 , 0 , 0 , 0.3);
+    opacity: 60%;
+}
+.navbar-brand{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: rgb(247, 243, 18);
+}
+
+footer{
+    position: absolute;
+    text-align: center;
+    background-color: rgb(247, 189, 118);
+    color: white;
+    width: 100%;
+}
+
+}
+.nam h2{
+    font-size: 80px;
+
+}
+.text p{
+    width: 600px;
+    text-align: center;
+    margin: 0 auto;
+    position: relative;
+    
+}
+
+
+.icon i{
+    font-size: 45px;
+    position: relative;
+    padding: 10px;
+}
+
+.nam h1{
+    font-size: 35px;
+    color: rgb(237, 71, 252);
+}
+.text p{
+    width: 600px;
+    text-align: center;
+    margin: 0 auto;
+    position: relative;
+    font-style: italic;
+    color: black;
+}
+.icon i{
+    font-size: 50px;
+    position: relative;
+    padding: 10px;
+}
+.copy{
+    height: 50px;
+    width: 100%;
+    background-color: rgb(140, 163, 10);
+    font-size: 20px;
+    line-height: 50px;
+}
